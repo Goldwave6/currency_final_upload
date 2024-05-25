@@ -160,7 +160,6 @@
   box-sizing: border-box;
   gap: 37.9px;
   flex-shrink: 0;
-  debug_commit: 1de1738;
   z-index: 1;
 }
 .graph-lines-icon,
@@ -174,7 +173,6 @@
   width: 100%;
   top: 0;
   flex-shrink: 0;
-  debug_commit: 1de1738;
 }
 .graph-lines-icon1 {
   height: 147.1px;
@@ -816,7 +814,6 @@
   display: flex;
   align-items: center;
   flex-shrink: 0;
-  debug_commit: 1de1738;
 }
 .container-wrapper,
 .container1 {
