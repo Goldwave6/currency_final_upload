@@ -221,14 +221,14 @@ $currencies = getCurrencies($conn);
           backgroundColor: 'rgba(255, 99, 132, 0.2)',
           borderColor: 'rgba(255, 99, 132, 1)',
           data: data,
-          fill: true, // Optionally fill the area under the line
+          fill: true, 
         }]
       },
       options: {
         scales: {
           x: {
             title: 'Year',
-            type: 'linear' // Ensure X-axis displays years as numbers (adjust if needed)
+            type: 'linear' 
           },
           y: {
             title: 'Exchange Rate'
@@ -247,7 +247,7 @@ $currencies = getCurrencies($conn);
         const amount = $("#amount").val();
 
         $.ajax({
-          url: "convert_currency.php", // Replace with your conversion script
+          url: "convert_currency.php", 
           method: "POST",
           data: {
             from_currency: fromCurrency,
