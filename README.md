@@ -40,7 +40,7 @@ Developing Easy Exchange was an enlightening experience, filled with both challe
 
 ChatGPT played a crucial role by providing timely advice and clarification on complex programming issues, which helped streamline the development process and improve the project’s structure. This project not only boosted my technical expertise but also deepened my appreciation for the practical application of web technologies in creating user-focused solutions.
 
-## USED RESSOURCES
+## Used Resources 
 
 - VS Code
 
